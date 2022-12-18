@@ -1,3 +1,5 @@
 Hello world!
 
 Testing git commit without "-m"
+
+Testing git commit with subject and body
